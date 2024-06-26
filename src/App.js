@@ -319,7 +319,8 @@ class App extends Component {
             <li>Nav Item 2</li>
             <li>Nav Item 3</li>
           </ul>
-          <p>Score: "{score}"</p>
+          <p>Score: </p>
+          <p>{score}</p>
           <img
             src="https://assets.ccbp.in/frontend/react-js/match-game-timer-img.png"
             alt="timer"
